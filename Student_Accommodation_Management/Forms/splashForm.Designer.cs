@@ -1,6 +1,6 @@
 ﻿namespace Student_Accommodation_Management
 {
-    partial class Form1
+    partial class splashForm
     {
         /// <summary>
         /// Required designer variable.

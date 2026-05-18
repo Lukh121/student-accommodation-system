@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Student_Accommodation_Management
 {
-    public partial class Form1 : Form
+    public partial class splashForm : Form
     {
-        public Form1()
+        public splashForm()
         {
             InitializeComponent();
         }
